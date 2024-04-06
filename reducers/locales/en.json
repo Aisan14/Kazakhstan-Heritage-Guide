@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "greeting": "Hello!",
+    "welcomeMessage": "Welcome to our application!",
+    "home": "Home",
+    "profile": "Profile",
+    "languages": "Languages",
+    "description": "This is a description.",
+    "headerText": "Historical Places",
+    "searchPlaceholder": "Search",
+    "clearButton": "Clear"
+  }
+}

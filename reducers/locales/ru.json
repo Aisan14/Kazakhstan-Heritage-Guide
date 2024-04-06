@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "greeting": "Привет!",
+    "welcomeMessage": "Добро пожаловать в наше приложение!",
+    "home": "Главная",
+    "profile": "Профиль",
+    "languages": "Языки",
+    "description": "Это описание.",
+    "headerText": "Тарихи орны",
+    "searchPlaceholder": "Іздеу",
+    "clearButton": "Тазалау"
+  }
+}
