@@ -4,7 +4,7 @@ import { getFirestore, collection, getDocs, addDoc } from '@firebase/firestore';
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCR7c1v79tmfFd_MRtSOLeLegC-SHhCb1I",
+  apiKey: ".",
   authDomain: "qwerty-8b6ca.firebaseapp.com",
   databaseURL: "https://qwerty-8b6ca-default-rtdb.firebaseio.com",
   projectId: "qwerty-8b6ca",
